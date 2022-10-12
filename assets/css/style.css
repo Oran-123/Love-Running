@@ -190,3 +190,11 @@ hr{
     border-radius: 50%;
 }
 
+#Times{
+    background: url('../images/dublin-city.webp') no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    overflow: hidden;
+    
+}
+
